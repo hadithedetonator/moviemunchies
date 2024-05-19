@@ -43,3 +43,9 @@ To get a local copy up and running, follow these simple steps:
 ```sh
 git clone [https://github.com/yourusername/moviemunchies.git]
 cd moviemunchies
+
+```
+### Usage
+Open your browser and navigate to http://localhost:8000
+Register a new account or log in with existing credentials
+Start exploring, rating, and reviewing movies!
